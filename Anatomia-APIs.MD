@@ -2,16 +2,19 @@
 
 ## **Anatomia das APIs**
 
-CRUD Rest
+**CRUD Rest**
 
 C = Create (Criar)
+
 R = Read (Ler)
+
 U = Update (Atualizar)
+
 D = Delete (Deletar)
 
 -----------------------------------------------------------------------------------
 
-Métodos HTTP
+**Métodos HTTP**
 
 GET = O método GET solicita a representação de um recurso específico. Requisições utilizando o método GET devem retornar apenas dados.
 
@@ -27,19 +30,20 @@ https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods
 
 -----------------------------------------------------------------------------------
 
-O corpo de uma requisição
+**O corpo de uma requisição**
 
 Request Line
 
-Metodo |    URL        | Protocolo  |
+Metodo |      URL      | Protocolo  |
+
   GET  / api / authors / HTTPS / 1.1
 
 Request Header
 
-Headers são metadados enviados na solicitação para fornecer informações sobre a solicitação. Cada cabeçalho é especificado com um nome, dois pontos e, em seguida pelo valor desse cabeçalho.
+* Headers são metadados enviados na solicitação para fornecer informações sobre a solicitação. Cada cabeçalho é especificado com um nome, dois pontos e, em seguida pelo valor desse cabeçalho.
 
 Request Body
 
-É onde colocamos as informações adicionais que vamos enviar para o servidor.
+* É onde colocamos as informações adicionais que vamos enviar para o servidor.
 
 * As requisições GET não suportam body, essas não devem precisar enviar estruturas complexas de dados para o servidor.

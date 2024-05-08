@@ -6,14 +6,16 @@
 
 Para importar o Express para o arquivo:
 
+~~~
 	* const express = require('express')
 	  const app = express( )
-	
+~~~
 
 Para trabalhar com arquivos JSON:
 
+~~~
 	* app.use(express.json( ))
-	
+~~~	
 
 	* Essa função do express, abtrai a complexidade de analisar o body de uma requisição e passar seu conteúdo para um objeto Javascript
 
@@ -27,36 +29,48 @@ Com EXPRESS em vez de ficar rodando varios IFs, basta usar o "app" onde está ro
 
 * Ficaria mais ou menos assim:
 
+~~~
     app.get('/users', (req, res) => {
     console.log('mensagem')
     res.status(200).send(" mensagem ")
 }) 
+~~~
+
 
 * Para iniciar o servidor:
 
-    app.listen(3000, () => { 
+~~~
+    app.listen(3000, ( ) => { 
     console.log(" mensagem ao iniciar o servidor ")
 }) 
+~~~
+
 
 -----------------------------------------------------------------------------------
 
 No express, tem como colocar queries na rota, ficaria assim
 
+~~~ 
     app.get('/users', (req, res) => {
     console.log(req.query)
     console.log('mensagem')
     res.status(200).send(" mensagem ")
 }) 
+~~~
+
 
 -----------------------------------------------------------------------------------
 É possivel pegar apenas um dado especifico com os parametros:
 
-app.get('/users/" :id "/" :idade " ', (req, res) => {
+~~~
+    app.get('/users/" :id "/" :idade " ', (req, res) => {
     console.log(req.params.id)
     console.log(req.params.idade)
     console.log(" mensagem ")
     res.status(200).send(" mensagem ")
 })
+~~~
+
 
 
 

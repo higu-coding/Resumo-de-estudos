@@ -70,6 +70,16 @@ No express, tem como colocar queries na rota, ficaria assim
     res.status(200).send(" mensagem ")
 })
 ~~~
+-----------------------------------------------------------------------------------
+Usando o método post, da pra usar o body para acessar os dados e devolver ao usuario
+
+~~~
+    app.post('/users', (req, res) => {
+    console.log(req.body)
+    console.log(" mensagem ")
+    res.status(200).send(req.body) // o ideal é sempre retornar JSON
+})
+~~~
 
 
 

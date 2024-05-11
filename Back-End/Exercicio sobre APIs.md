@@ -31,6 +31,6 @@ Anotações:
 O exercicio está no repositorio "Iniciando-Estudos-em-Back-End" no GitHub.
 
 -----------------------------------------------------------------------------------
-Hoje, dia 10/05/2024 novamente, iniciei um novo exercicio parecido com o anterior.
+Hoje, dia 11/05/2024, iniciei um novo exercicio parecido com o anterior.
 
-Fiz um CRUD de veiculos, mas ainda está incompleto, terminarei dia 11/05/2024
+Fiz um CRUD de veiculos, usando basicamente as mesmas coisas do CRUD de alunos, que foi o exercicio passado, apenas para praticar.

@@ -35,3 +35,18 @@ Isso na tecnica F.T.A.E, pode se adicionar o tom de voz no final da pergunta, po
 * Me [FUNÇÃO] UM [TIPO DE TEXTO] sobre [assunto] nesse [estilo], com (TOM DE VOZ).
 
 Isso melhora a forma de como você vai interpretar um conteúdo
+
+---------------------------------------------------------------------------------------------------------
+##Campos semânticos e variáveis no chatGPT
+
+Exemplo:
+
+Me escreva um artigo sobre os primeiros passos no Javascript, em tom de conversa com uma criança de 10 anos. Agora, use os itens em {RESUMO} para o {ROTEIRO} seguindo as {REGRAS}
+
+{RESUMO}
+
+{ROTEIRO}
+
+{REGRAS}
+
+* Vou terminar esse resumo dia 14/05

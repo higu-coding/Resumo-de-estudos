@@ -13,3 +13,25 @@ Me [FUNÇÃO] UM [TIPO DE TEXTO] sobre [assunto] nesse [estilo]
 * [estilo]: (personalidade, escritor, filosofo)
 
 ---------------------------------------------------------------------------------------------------------
+## Fantasia computacional
+
+Criar conteúdos que nao existem para que você mesmo consuma, por exemplo:
+
+* Pedir para que o Chat GPT te explique uma linguagem de programação, como se fosse um video de um canal do YouTube.
+
+E é possível criar autoridade com Fantasia computacional, por exemplo:
+
+* Descrevendo o seu nível de senioridade, experiência, no sua pergunta ou requisição no Chat GPT.
+
+---------------------------------------------------------------------------------------------------------
+## Tom de voz no Chat GPT
+
+O que seria o tom de voz?
+
+* Seria para quem ele deveria explicar um conteúdo, por exemplo, uma criança, um idoso, um adulto, etc.
+
+Isso na tecnica F.T.A.E, pode se adicionar o tom de voz no final da pergunta, por exemplo:
+
+* Me [FUNÇÃO] UM [TIPO DE TEXTO] sobre [assunto] nesse [estilo], com (TOM DE VOZ).
+
+Isso melhora a forma de como você vai interpretar um conteúdo

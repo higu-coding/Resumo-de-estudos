@@ -65,4 +65,4 @@ Hoje vamos resolver o [Problema]
 * Então no exemplo acima, os nomes dentro dos [ ] são as variáveis
 
 ---------------------------------------------------------------------------------------------------------
-# Iniciando um novo estudo
+# Iniciando um novo estudo em Criação de resumos de livros de maneira mais assertiva

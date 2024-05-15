@@ -65,4 +65,10 @@ Hoje vamos resolver o [Problema]
 * Então no exemplo acima, os nomes dentro dos [ ] são as variáveis
 
 ---------------------------------------------------------------------------------------------------------
-# Iniciando um novo estudo em Criação de resumos de livros de maneira mais assertiva
+# Transformando formatos
+
+Uma coisa util do Chat GPT dentre muitas, é poder ler conteudos de paginas, e transcrever algo que você procura, por exemplo.
+
+* Transformar um conteudo de texto, em pequenas partes de um post do instagram, destacando as partes principais do texto.
+
+* Outra coisa, também é possivel fazer resumos de livros de maneiras assertivas.

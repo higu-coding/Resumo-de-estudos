@@ -79,4 +79,6 @@ Outra coisa, também é possivel fazer resumos de livros de maneiras assertivas,
 
 Organizar horas para estudo também é possivel com o Chat GPT, junto de um Roadmap, por exemplo.
 
-* "Crie um cronograma de estudos sobre javascript, dividindo em módulos e tópicos, para que eu possa aprendê-lo e dominá-lo em X dias e Y horas de estudo por dia, organizado por dias da semana"
+* "Crie um cronograma de estudos sobre javascript, dividindo em módulos e tópicos, para que eu possa aprendê-lo e dominá-lo em X dias e Y horas de estudo por dia, organizado por dias da semana".
+
+* O mesmo serve para uma vaga de emprego, que possuem alguns requisitos, linguagem de programação, framework, libs, etc.

@@ -1,3 +1,3 @@
 # Act Commands
 
-## Comandos de atuação
+## Comandos de atuação.

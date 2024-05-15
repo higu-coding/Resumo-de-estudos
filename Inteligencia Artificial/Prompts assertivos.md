@@ -82,3 +82,9 @@ Organizar horas para estudo também é possivel com o Chat GPT, junto de um Road
 * "Crie um cronograma de estudos sobre javascript, dividindo em módulos e tópicos, para que eu possa aprendê-lo e dominá-lo em X dias e Y horas de estudo por dia, organizado por dias da semana".
 
 * O mesmo serve para uma vaga de emprego, que possuem alguns requisitos, linguagem de programação, framework, libs, etc.
+---------------------------------------------------------------------------------------------------------
+# Como estudar assuntos complexos com o Chat GPT 
+
+Por exemplo, um tópico de um estudo de javascript, usando funções.
+
+* Poderia ser escrito dessa forma, "Me escreva um artigo resumido sobre funções", isso ajuda a dar um aprofundamento, em certo conteúdo, e até mesmo utilizando a fantasia computacional, pedir para o Chat GPT explicar de forma simples, fazer analogias simples, utilizando um certo tom, etc.

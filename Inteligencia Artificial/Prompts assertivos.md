@@ -1,4 +1,4 @@
-# Prompts Assertivos
+# Prompts Assertivos e Ricos
 
 ## Modelos de perguntas com a técnica F.T.A.E:
 
@@ -65,10 +65,18 @@ Hoje vamos resolver o [Problema]
 * Então no exemplo acima, os nomes dentro dos [ ] são as variáveis
 
 ---------------------------------------------------------------------------------------------------------
-# Transformando formatos
+# Truques do Chat GPT
+
+## Transformando formatos
 
 Uma coisa util do Chat GPT dentre muitas, é poder ler conteudos de paginas, e transcrever algo que você procura, por exemplo.
 
 * Transformar um conteudo de texto, em pequenas partes de um post do instagram, destacando as partes principais do texto.
 
-* Outra coisa, também é possivel fazer resumos de livros de maneiras assertivas.
+Outra coisa, também é possivel fazer resumos de livros de maneiras assertivas, por exemplo.
+
+* Fazer a leitura de um livro, físico mesmo, mas, quando houver necessidade, pedir auxilio para o Chat GPT, sobre uma parte que não ficou muito clara para você
+
+Organizar horas para estudo também é possivel com o Chat GPT, junto de um Roadmap, por exemplo.
+
+* "Crie um cronograma de estudos sobre javascript, dividindo em módulos e tópicos, para que eu possa aprendê-lo e dominá-lo em X dias e Y horas de estudo por dia, organizado por dias da semana"

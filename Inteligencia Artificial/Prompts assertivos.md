@@ -88,3 +88,5 @@ Organizar horas para estudo também é possivel com o Chat GPT, junto de um Road
 Por exemplo, um tópico de um estudo de javascript, usando funções.
 
 * Poderia ser escrito dessa forma, "Me escreva um artigo resumido sobre funções", isso ajuda a dar um aprofundamento, em certo conteúdo, e até mesmo utilizando a fantasia computacional, pedir para o Chat GPT explicar de forma simples, fazer analogias simples, utilizando um certo tom, etc.
+
+---------------------------------------------------------------------------------------------------------

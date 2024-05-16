@@ -21,4 +21,6 @@ Pedir para que o Chat GPT se comporte como um consultor de UI/UX:
 Pedir para que o Chat GPT se comporte como um terminal SQL:
 
 * Pode também pedir para que ele atue como um terminal SQL, para usa-lo como banco de dados, da mesma forma, usando "Act as a SQL terminal" ou "Atue como um terminal SQL"
+
+Entre muitas outras infinitas possibilidades para trabalhar com o Chat GPT
 ---------------------------------------------------------------------------------------------------------

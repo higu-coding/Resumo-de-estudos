@@ -24,3 +24,8 @@ Pedir para que o Chat GPT se comporte como um terminal SQL:
 
 Entre muitas outras infinitas possibilidades para trabalhar com o Chat GPT
 ---------------------------------------------------------------------------------------------------------
+# Commits Semanticos
+
+Pode-se pedir para o Chat GPT atuar como um gerador de mensagens para commits
+
+Como nas outras vezes, basta falar "Act as a Commit Message Generator" ou até "Act as a Commit Message Generator aways semantic commits" para que os commits sejam semanticos

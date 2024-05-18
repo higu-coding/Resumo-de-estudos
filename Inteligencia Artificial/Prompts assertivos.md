@@ -90,3 +90,8 @@ Por exemplo, um tópico de um estudo de javascript, usando funções.
 * Poderia ser escrito dessa forma, "Me escreva um artigo resumido sobre funções", isso ajuda a dar um aprofundamento, em certo conteúdo, e até mesmo utilizando a fantasia computacional, pedir para o Chat GPT explicar de forma simples, fazer analogias simples, utilizando um certo tom, etc.
 
 ---------------------------------------------------------------------------------------------------------
+# Commits Semanticos
+
+Pode-se pedir para o Chat GPT atuar como um gerador de mensagens para commits
+
+Como nas outras vezes, basta falar "Act as a Commit Message Generator" ou até "Act as a Commit Message Generator aways semantic commits" para que os commits sejam semanticos

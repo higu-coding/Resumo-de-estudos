@@ -23,9 +23,27 @@ Pedir para que o Chat GPT se comporte como um terminal SQL:
 * Pode também pedir para que ele atue como um terminal SQL, para usa-lo como banco de dados, da mesma forma, usando "Act as a SQL terminal" ou "Atue como um terminal SQL"
 
 Entre muitas outras infinitas possibilidades para trabalhar com o Chat GPT
+
 ---------------------------------------------------------------------------------------------------------
 # Commits Semanticos
 
 Pode-se pedir para o Chat GPT atuar como um gerador de mensagens para commits
 
 Como nas outras vezes, basta falar "Act as a Commit Message Generator" ou até "Act as a Commit Message Generator aways semantic commits" para que os commits sejam semanticos
+
+---------------------------------------------------------------------------------------------------------
+# Atuação com Regras
+
+Sem que seja o padrão de perguntas e respostas comum do Chat GPT
+
+Você pode pedir para que ele siga regras quando você solicitar uma orientação, por exemplo:
+
+"Comporte-se como se fosse um especialista de front-end sênior que está me orientando a programar melhor"
+
+{REGRAS}
+> Sempre que eu te informar o que estou fazendo, faça um checklist de boas práticas de front-end
+> Sempre que eu te informar o que estou fazendo, ao final, envie uma sugestão de código
+
+Isso sairá do padrão comum de uso do Chat GPT de perguntas e respostas, seria usado para "substituir" alguem quando for preciso.
+
+E quando as regras já estão determinadas, a partir disso, o Chat GPT passará a segui-las até o fim.

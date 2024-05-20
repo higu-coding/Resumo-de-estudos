@@ -47,3 +47,16 @@ Você pode pedir para que ele siga regras quando você solicitar uma orientaçã
 Isso sairá do padrão comum de uso do Chat GPT de perguntas e respostas, seria usado para "substituir" alguem quando for preciso.
 
 E quando as regras já estão determinadas, a partir disso, o Chat GPT passará a segui-las até o fim.
+
+---------------------------------------------------------------------------------------------------------
+# Usando o Chat GPT como se tivesse em um modo de tutorial
+
+Falando sobre prompts ricos, caso você ainda não saiba formulá-los, pode pedir para o Chat GPT, mas é claro, não é apenas isso que ele faz, podendo te dar instruções sobre o assunto.
+
+Por exemplo, sobre prompts ricos, pode digitar assim:
+
+	* Act as a ChatGPT prompt generator
+
+Dito isto, o Chat GPT vai parar de te dar respostas, mas sim te retornar a mesma pergunta, de uma forma muito mais rica.
+
+---------------------------------------------------------------------------------------------------------

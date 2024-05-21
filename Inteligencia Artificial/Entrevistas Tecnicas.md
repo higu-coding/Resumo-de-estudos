@@ -11,3 +11,4 @@ Pode ser usado da mesma forma dos resumos anteriores, só que para um novo prop�
 ---------------------------------------------------------------------------------------------------------
 # Se for necessário pesquisar sobre alguma empresa, se ela for de grande porte, e também de longa data no mercado, pode pedir para o Chat GPT descrever certas informações sobre a empresa, por exemplo, a cultura da empresa, ramo, historia, etc.
 
+Porém, não se deve confiar cegamente nas informações passadas pelo Chat GPT, pois pode haver divergencias, já que o mesmo pode criar informações fantasias.

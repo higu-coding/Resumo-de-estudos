@@ -4,3 +4,10 @@ Pode ser usado da mesma forma dos resumos anteriores, só que para um novo prop�
 
 * Pode pedir para o Chat GPT se comportar como um entrevistador ou especialista em alguma linguagem, framework, libs, etc.
 * Para que possa ser feita uma simulação de entrevistas na vida real, seguindo regras, que você pode definir no prompt na hora da simulação
+
+---------------------------------------------------------------------------------------------------------
+# É possivel utilizar o Chat GPT analisar repositorios, e pedir para que o mesmo mostre determinados padrões de códigos
+
+---------------------------------------------------------------------------------------------------------
+# Se for necessário pesquisar sobre alguma empresa, se ela for de grande porte, e também de longa data no mercado, pode pedir para o Chat GPT descrever certas informações sobre a empresa, por exemplo, a cultura da empresa, ramo, historia, etc.
+

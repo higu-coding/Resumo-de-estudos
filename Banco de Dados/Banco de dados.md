@@ -1,8 +1,8 @@
 # Banco de dados
 
-Um banco de dados é necessário em uma aplicação para armazenar e organizar grandes volumes de dados de forma estruturada, permitindo acesso eficiente, consultas complexas, garantindo integridade e persistencia dos dados.
+Um banco de dados é necessário em uma aplicação para armazenar e organizar grandes volumes de dados de forma estruturada, permitindo acesso eficiente, consultas complexas, garantindo integridade e persistência dos dados.
 
-A diferença entre a persistencia em memória RAM e armazenamento está na durabilidade dos dados: a RAM é volatil e os dados são perdidos após desligar o sistema, enquanto o armazenamento mantém os dados mesmo após o desligamento
+A diferença entre a persistência em memória RAM e armazenamento está na durabilidade dos dados: a RAM é volátil e os dados são perdidos após desligar o sistema, enquanto o armazenamento mantém os dados mesmo após o desligamento.
 
 ---------------------------------------------------------------------------------------------------------
 # Banco de Dados relacional

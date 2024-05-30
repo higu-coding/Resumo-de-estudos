@@ -42,3 +42,6 @@ Not Null Constraint
 * Impede a inserção de valores nulos em uma coluna específica, garantindo que ela sempre possua um valor válido.
 
 ---------------------------------------------------------------------------------------------------------
+# Criei uma conta na AWS
+
+Hoje, dia 30/05 estava corrido, então nao fiz tanta coisa.

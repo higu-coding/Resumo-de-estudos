@@ -21,3 +21,24 @@ Essa chave é usada para garantir a unicidade dos dados e permite o rápido aces
 Foreign Key (FK)
 
 * Uma Foreign Key é um atributo que estabelece uma relação entre duas tabelas. Essa chave é baseada em uma PK de outra tabela e é usada para criar uma conexãoo entre elas. A FK define uma restrição, garantindo que os valores na coluna relacionada existam na tabela referenciada, facilitando a recuperação de dados relacionados por meio de consultas.
+
+---------------------------------------------------------------------------------------------------------
+# Constraints
+
+Constraints (restrições)  em um banco de dados relacional são regras aplicadas às tabelas para garantir a integridade e consistência dos dados armmazenados. Essas restrições ajudam a impor regras de negocio e a evitar inconsistências  ou dados inválidos no banco de dados. 
+
+* Ex: Primary Key e Foreign Key
+
+Unique Constraint 
+
+* Garante que os valores em uma coluna (ou conjunto de colunas) sejam únicos em uma tabela, permitindo apenas um unico valor ou valores nulos.
+
+Check Constraint 
+
+* Permite definir condições ou expressões lógicas para restringir os valores permitidos em uma coluna. Isso ajuda a garantir que apenas dados válidos sejam inseridos na tabela.
+
+Not Null Constraint
+
+* Impede a inserção de valores nulos em uma coluna específica, garantindo que ela sempre possua um valor válido.
+
+---------------------------------------------------------------------------------------------------------

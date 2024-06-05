@@ -23,3 +23,10 @@ Serve para poder melhorar códigos já escritos, seja para encontrar erros, ou p
 Também sendo uma boa pratica, que cada arquivo do projeto tenha uma unica responsabilidade.
 
 * E com o Chat GPT, pode ajudar muito a fazer essa divisão de tarefas.
+
+---------------------------------------------------------------------------------------------------------
+# Legibilidade
+
+* Tornar o código legível, não quer dizer que o codigo será pequeno, na verdade, é o contrario, por mais que a maquina consiga ler o código sem problemas, o ser humano não consegue, por isso, tornar legível é mais importante do que deixar o código curto.
+
+* Pode-se pedir para o Chat GPT para tornar um código mais legivel, ou curto, ambas as formas podem ser solicitadas para ele, mas não quer dizer o entendimento será o mesmo.

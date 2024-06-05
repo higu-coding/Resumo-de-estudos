@@ -14,3 +14,12 @@ Serve para poder melhorar códigos já escritos, seja para encontrar erros, ou p
 * Uma boa pratica ao escrever codigos é sempre manter o mesmo padrão de escrita para todos os arquivos, isso ajuda a tornar mais legivel e menos confuso.
 
 * E tudo que não vai ser redeclarado no codigo, não se usa "let", e sim "const".
+
+* É sempre importante validar o que o Chat GPT fez no seu código, pois pode haver coisas que não façam sentido, e que podem ser descartadas, se for pedido, o chat gpt sempre vai te explicar as alterações feitas no arquivo, para que seja melhor entendido.
+
+---------------------------------------------------------------------------------------------------------
+# Single Responsability
+
+Também sendo uma boa pratica, que cada arquivo do projeto tenha uma unica responsabilidade.
+
+* E com o Chat GPT, pode ajudar muito a fazer essa divisão de tarefas.

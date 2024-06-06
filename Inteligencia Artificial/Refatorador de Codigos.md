@@ -30,3 +30,14 @@ Também sendo uma boa pratica, que cada arquivo do projeto tenha uma unica respo
 * Tornar o código legível, não quer dizer que o codigo será pequeno, na verdade, é o contrario, por mais que a maquina consiga ler o código sem problemas, o ser humano não consegue, por isso, tornar legível é mais importante do que deixar o código curto.
 
 * Pode-se pedir para o Chat GPT para tornar um código mais legivel, ou curto, ambas as formas podem ser solicitadas para ele, mas não quer dizer o entendimento será o mesmo.
+
+---------------------------------------------------------------------------------------------------------
+# Paradigmas na programação
+
+* Os paradigmas de programação ajudam a estabelecer padrões para escrever código. Quando um especialista muda para uma linguagem de programação que segue um paradigma com o qual está familiarizado, é mais fácil para ele superar as diferenças entre as linguagens.
+
+O chat GPT pode ajudar a seguir diversos paradigmas na programação, pode mudar o seu código para que siga o paradigma especifico.
+
+Por exemplo: 
+
+* Paradigma POO e o Paradigma Funcional

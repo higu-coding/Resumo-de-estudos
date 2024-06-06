@@ -41,3 +41,8 @@ O chat GPT pode ajudar a seguir diversos paradigmas na programação, pode mudar
 Por exemplo: 
 
 * Paradigma POO e o Paradigma Funcional
+
+---------------------------------------------------------------------------------------------------------
+# Insights de limpeza no código
+
+Pode pedir para o Chat GPT para que ele remova partes desnecessárias do código.

@@ -46,3 +46,17 @@ Por exemplo:
 # Insights de limpeza no código
 
 Pode pedir para o Chat GPT para que ele remova partes desnecessárias do código.
+
+---------------------------------------------------------------------------------------------------------
+# Modularização
+
+* O que é?
+
+A modularização (ou componentização) é o mecanismo que permite que um sistema de software seja dividido em partes que interagem entre si. Tais partes são chamadas de módulos. Desse modo, o código desenvolvido é dividido em módulos independentes, que podem ser utilizados por qualquer objeto e a qualquer tempo.
+
+Isso também pode ser solicitado ao Chat GPT para que seja feita essas mudanças no código.
+
+---------------------------------------------------------------------------------------------------------
+# Estrutura de pastas
+
+O chat gpt pode te ajudar a organizar pastas de maneira mais facil e compreensivel

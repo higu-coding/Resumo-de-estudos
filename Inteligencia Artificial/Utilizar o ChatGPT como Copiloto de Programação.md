@@ -16,3 +16,5 @@ Também, sempre pedindo para o Chat GPT explicar as mudanças feitas.
 
 ---------------------------------------------------------------------------------------------------------
 # Conversão de códigos
+
+Quando você só sabe utilizar apenas uma linguagem, com o Chat GPT você pode converter o código para outra linguagem, caso esteja estudando, por exemplo, converter um código Javascript para Python.

@@ -18,3 +18,13 @@ Também, sempre pedindo para o Chat GPT explicar as mudanças feitas.
 # Conversão de códigos
 
 Quando você só sabe utilizar apenas uma linguagem, com o Chat GPT você pode converter o código para outra linguagem, caso esteja estudando, por exemplo, converter um código Javascript para Python.
+
+---------------------------------------------------------------------------------------------------------
+# Documentação
+
+Pode se pedir ao Chat GPT para fazer documentação de códigos, e também é possivel usar outras documentações como template para fazer a sua própria.
+
+---------------------------------------------------------------------------------------------------------
+# Usar o Chat GPT como mentor de projetos
+
+Pode pedir ao Chat GPT para te instruir em como fazer um projeto.

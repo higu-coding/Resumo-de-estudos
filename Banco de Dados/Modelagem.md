@@ -47,4 +47,4 @@ Not Null Constraint
 Hoje, dia 30/05 estava corrido, então nao fiz tanta coisa.
 
 ---------------------------------------------------------------------------------------------------------
-# Criei um servidor usando o azure studio e o DB da AWS	
+# Criei um servidor usando o azure studio e o DB da AWS

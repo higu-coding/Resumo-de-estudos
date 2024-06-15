@@ -48,3 +48,6 @@ Hoje, dia 30/05 estava corrido, então nao fiz tanta coisa.
 
 ---------------------------------------------------------------------------------------------------------
 # Criei um banco de dados usando o azure studio e o DB da AWS
+
+---------------------------------------------------------------------------------------------------------
+# Fiz minha primeira tabela

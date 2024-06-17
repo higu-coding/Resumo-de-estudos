@@ -72,7 +72,28 @@ Para adicionar uma nova coluna a tabela utiliza o código abaixo:
 	ALTER TABLE "nome da tabela"
 	ADD COLUMN "nome da coluna" "tipo_de_dado";
 
-E para remover uma coluna, utiliza o código abaixo:
+Para remover uma coluna, utiliza o código abaixo:
 
 	ALTER TABLE "nome da tabela"
 	DROP COLUMN "nome da coluna";
+
+Alterar o tipo de dado de uma coluna:
+
+	ALTER TABLE "nome da tabela"
+	ALTER COLUMN "nome da coluna" TYPE "novo tipo de dado";
+
+Renomear uma coluna:
+
+	ALTER TABLE "nome da tabela"
+	RENAME COLUMN "nome da coluna antiga" TO "nome da coluna nova";
+
+Adicionar uma chave primária a uma tabela: 
+
+	ALTER TABLE "nome da tabela"
+	ADD CONSTRAINT "nome da chave primaria" PRIMARY KEY ("nome da coluna");	
+
+Adicionar uma chave estrangeira a uma tabela:
+
+	ALTER TABLE "nome da tabela"
+	ADD CONSTRAINT "nome da chave estrangeira" FOREIGN KEY ("nome da coluna")
+	REFERENCES "nome da tabela referenciada" ("nome da coluna")

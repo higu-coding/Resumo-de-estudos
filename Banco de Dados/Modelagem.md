@@ -49,5 +49,17 @@ Hoje, dia 30/05 estava corrido, então nao fiz tanta coisa.
 ---------------------------------------------------------------------------------------------------------
 # Criei um banco de dados usando o azure studio e o DB da AWS
 
+Para criar um banco de dados usa o comando
+
+* CREATE DATABASE "nome do banco de dados";
+
 ---------------------------------------------------------------------------------------------------------
-# Fiz minha primeira tabela
+# Criar tabela
+
+Para criar uma tabela usa o comando
+
+* CREATE TABLE "nome da tabela" (
+	coluna1 "tipo_de_dado",
+	coluna2 "tipo_de_dado",
+	coluna3 "tipo_de_dado",
+)

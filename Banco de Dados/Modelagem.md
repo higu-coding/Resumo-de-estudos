@@ -63,3 +63,16 @@ Para criar uma tabela usa o comando
 	coluna2 "tipo_de_dado",
 	coluna3 "tipo_de_dado",
 )
+
+---------------------------------------------------------------------------------------------------------
+# Alter Table
+
+Para adicionar uma nova coluna a tabela utiliza o código abaixo: 
+
+	ALTER TABLE "nome da tabela"
+	ADD COLUMN "nome da coluna" "tipo_de_dado";
+
+E para remover uma coluna, utiliza o código abaixo:
+
+	ALTER TABLE "nome da tabela"
+	DROP COLUMN "nome da coluna";

@@ -97,3 +97,20 @@ Adicionar uma chave estrangeira a uma tabela:
 	ALTER TABLE "nome da tabela"
 	ADD CONSTRAINT "nome da chave estrangeira" FOREIGN KEY ("nome da coluna")
 	REFERENCES "nome da tabela referenciada" ("nome da coluna")
+
+---------------------------------------------------------------------------------------------------------
+# Insert
+
+Data Manipulation Language - DML
+
+Para inserir dados em uma tabela, usa o comando INSERT seguido de VALUE:
+
+	"INSERT INTO 'nome da tabela'( "ORDEM DOS DADOS" )"
+	VALUES ("dados seguindo a ordem do insert")
+
+* Por exemplo, usando dados fictícios:
+
+	insert into alunos (id, nome, email)
+	values (3, josenildo fernando, josenildofernando@hotmail.com)
+
+---------------------------------------------------------------------------------------------------------

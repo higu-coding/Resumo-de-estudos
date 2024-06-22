@@ -114,3 +114,12 @@ Para inserir dados em uma tabela, usa o comando INSERT seguido de VALUE:
 	values (3, josenildo fernando, josenildofernando@hotmail.com)
 
 ---------------------------------------------------------------------------------------------------------
+# Select
+
+O comando SELECT é usado para consultar dados de uma ou mais tabelas em um banco de dados. É uma das instruções mais comumente usadas e poderosas na linguagem SQL.
+
+* Sintaxe:
+
+	SELECT coluna1, coluna2, ...
+	FROM tabela
+	WHERE condição;

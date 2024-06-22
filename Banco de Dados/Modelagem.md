@@ -123,3 +123,16 @@ O comando SELECT é usado para consultar dados de uma ou mais tabelas em um banc
 	SELECT coluna1, coluna2, ...
 	FROM tabela
 	WHERE condição;
+
+---------------------------------------------------------------------------------------------------------
+# Update
+
+O comando UPDATE é utilizado para modificar os valores de uma ou mais colunas em uma tabela. Ele permite atualizar registros existentes com novos valores de acordo com determinadas condições.
+
+* Sintaxe: 
+	
+	UPDATE tabela
+	SET coluna1 = valor1, coluna2 = valor2, ...
+	WHERE condição
+
+---------------------------------------------------------------------------------------------------------

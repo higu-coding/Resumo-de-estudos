@@ -136,3 +136,12 @@ O comando UPDATE é utilizado para modificar os valores de uma ou mais colunas e
 	WHERE condição
 
 ---------------------------------------------------------------------------------------------------------
+# Delete
+
+O comando DELETE remove um ou mais registros de uma tabela. Um subconjunto pode ser definido para exclusão usando uma condição, caso contrário, todos os registros serão removidos.
+
+* Sintaxe: 
+	
+	DELETE FROM tabela
+	WHERE condição
+

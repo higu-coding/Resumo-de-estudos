@@ -145,3 +145,13 @@ O comando DELETE remove um ou mais registros de uma tabela. Um subconjunto pode 
 	DELETE FROM tabela
 	WHERE condição
 
+---------------------------------------------------------------------------------------------------------
+# Transações
+
+O BEGIN TRANSACTION indica onde ela deve começar, então os comando SQL a seguir estarão dentro desta transação.
+
+O COMMIT TRANSACTION indica o fim normal da transação, o que tiver de comando depois já não fará parte desta transação. Neste momento tudo o que foi manipulado passa fazer parte do banco de dados normalmente e operações diversas passam enxergar o que foi feito.
+
+O ROLLBACK TRANSACTION reverte uma transação explícita ou implícita para o início da transação ou para um ponto de salvamento dentro da transação. Você pode usar ROLLBACK TRANSACTION para apagar todas as modificações de dados feitas desde o início da transação ou para um ponto de salvamento. Ela também libera recursos mantidos pela transação.
+
+Ao contrário do que muita gente acredita rollback no contexto de banco de dados não significa reverter e sim voltar ao estado original. Um processo de reversão seria de complicadíssimo à impossível. Um processo de descarte é simples e pode ser atômico.

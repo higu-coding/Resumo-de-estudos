@@ -28,3 +28,13 @@ Sistemas de Recomendação:
 Transhumanismo: 
 
 * Um movimento multidisciplinar, estuda como a tecnologia é capaz de fundir o corpo e a mente humana, permitindo ao ser humano transcender diante das limitações atuais
+
+--------------------------------------------------------------------------------------------------------------
+# Diferença entre Machine Learning e Inteligência Artificial
+
+A inteligência artificial abrange a ideia de uma máquina que pode imitar a inteligência humana, mas o machine learning não. 
+
+O aprendizado de máquina tem como objetivo ensinar uma máquina a realizar uma tarefa específica e fornecer resultados precisos identificando padrões.
+
+--------------------------------------------------------------------------------------------------------------
+# Características entre Machine Learning e Inteligência Artificial

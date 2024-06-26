@@ -38,3 +38,16 @@ O aprendizado de máquina tem como objetivo ensinar uma máquina a realizar uma 
 
 --------------------------------------------------------------------------------------------------------------
 # Características entre Machine Learning e Inteligência Artificial
+
+Inteligência Artificial
+
+* Inteligência artificial é o termo abrangente que cobre uma ampla variedade de abordagens e algoritmos específicos. 
+Qualquer técnica que permite o computador a imitar a inteligência humana, usando a lógica, regras matematicas, árvores de decisão e machine learning (incluindo deep learning).
+
+Machine Learning
+* O machine learning está sob esse amplo escopo, mas também há outros subcampos, como aprendizado profundo, robótica, sistemas de especialistas e processamento de linguagem natural.
+É um subconjunto da IA que inclui técnicas estatísticas que permitem máquinas de melhorar tarefas através da experiência. Está incluso o deep learning.
+
+Deep Learning
+
+* Subconjunto de machine learging composto por algoritmos que permitem o software treinar a si mesmo para desempenhar tarefas, como reconhecimento de imagem e voz, por meio de múltiplas camadas de redes neurais artificiais

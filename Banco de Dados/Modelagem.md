@@ -155,3 +155,8 @@ O COMMIT TRANSACTION indica o fim normal da transação, o que tiver de comando 
 O ROLLBACK TRANSACTION reverte uma transação explícita ou implícita para o início da transação ou para um ponto de salvamento dentro da transação. Você pode usar ROLLBACK TRANSACTION para apagar todas as modificações de dados feitas desde o início da transação ou para um ponto de salvamento. Ela também libera recursos mantidos pela transação.
 
 Ao contrário do que muita gente acredita rollback no contexto de banco de dados não significa reverter e sim voltar ao estado original. Um processo de reversão seria de complicadíssimo à impossível. Um processo de descarte é simples e pode ser atômico.
+
+---------------------------------------------------------------------------------------------------------
+# 26/06/2024 
+
+Fiz uma conexão com banco de dados no VSCode, não entendi muito bem, mas estou tentando compreender

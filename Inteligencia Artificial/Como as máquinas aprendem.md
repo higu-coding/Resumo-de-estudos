@@ -109,3 +109,8 @@ Os pesquisadores usam os dados pré-processados e machine learning para treinar 
 * Implantação e inferência:
 
 Os especialistas em machine learning implantam o modelo ou o integram a um ambiente de produção existente. O modelo de PLN recebe entrada e prevê uma saída para o caso de uso específico para o qual foi projetado. Você pode executar a aplicação de PLN em dados ao vivo e obter a saída necessária.
+
+--------------------------------------------------------------------------------------------------------------
+# Visão Computacional
+
+* A visão computacional é uma tecnologia que as máquinas usam para reconhecer imagens automaticamente e descrevê-las com precisão e eficiência.

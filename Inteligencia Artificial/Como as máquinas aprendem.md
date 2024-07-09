@@ -119,3 +119,4 @@ Os especialistas em machine learning implantam o modelo ou o integram a um ambie
 # Algoritmo de Backpropagation
 
 O Algoritmo de Backpropagation é uma das ferramentas mais utilizadas para o treinamento de Redes Neurais Artificiais. Entretanto, em algumas aplicações práticas ele pode ser muito lento. Para permitir uma utilização mais ampla, muitas técnicas têm sido discutidas para acelerar o seu desempenho.
+ 

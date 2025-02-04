@@ -1,0 +1,107 @@
+-------------------------------------------------> Introdução
+
+Vocês devem estar se perguntando o que seria esse DBA ou AD?
+
+Com o conhecimento que irão adquirir no decorrer do curso, vocês poderão se tornar
+um Database Administrator ou um Analista de Dados.
+
+Nessa unidade iremos detalhar o modo de armazenamento interno [tamanho de
+campos, índices, tipo de preenchimento dos campos, nomenclaturas etc.] através da
+linguagem denominada SQL.
+
+Com essas informações seremos capazes de criar uma estrutura para o
+armazenamento e visualização de qualquer informação.
+
+Nessa disciplina utilizaremos o SGDB Oracle 10g, que possui um material
+complementar de como instalar e proceder com a liberação do usuário HR.
+
+A SQL foi desenvolvida originalmente pela IBM Research no início da década de 1970.
+Representa o padrão para linguagens de SGBD Relacionais, tendo sido padronizada
+pelo comitê ANSI/ISO.
+
+Em 1999 foi publicado o atual padrão SQL/99 ou SQL3.
+
+Quando os Bancos de Dados Relacionais estavam sendo desenvolvidos, foram criadas
+linguagens destinadas à sua manipulação. O Departamento de Pesquisas da IBM
+desenvolveu a SQL como forma de interface para o sistema de banco de dados
+relacional denominado SYSTEM R, no início dos anos 70.
+
+Em 1986, o American National Standard Institute (ANSI) publicou um padrão SQL.
+A SQL estabeleceu-se como linguagem padrão de Banco de Dados Relacional.
+
+A SQL apresenta uma série de comandos que permitem a denição dos dados,
+chamada de DDL (Data Denition Language), composta, entre outros, pelos comandos
+Create, Alter e Drop.
+
+-------------------------------------------------> Regras de Nomeação
+
+Os nomes das tabelas e colunas devem conter de 1 a 30 caracteres, sendo o primeiro
+caractere alfabético.
+
+Os nomes devem conter apenas caracteres de a-z, A-Z, 0-9, _, S e #.
+
+Os nomes não podem ser iguais às palavras reservadas do Oracle.
+
+-------------------------------------------------> Tipo de Dados
+
+Ao se criar a estrutura de uma tabela, é necessário que o usuário forneça, para cada
+coluna, as seguintes informações:
+
+-Tipo de Dado;
+-Tamanho;
+-Restrições.
+
+Tipo de Dado  |  Descrição
+              |
+CHAR(n)       |   Campo xo com tamanho máximo de 2000 bytes.
+              |
+DATE          |   Permite data entre 1 de janeiro de 4712 AC até 31 de dezembro de 4712 DC.
+              |
+LONG          |   Caractere variável com tamanho de até 2 Gb.
+              |
+VARCHAR2(n)   |   Campo do tipo caractere com tamanho variável e limitado a 4000 bytes.
+              |
+NUMBER(n,d)   |   Onde n é o número de dígitos e d o número de casas decimais.
+
+
+-------------------------------------------------> Restrições - Constraint
+
+As restrições são regras básicas estabelecidas para o preenchimento de uma ou mais
+colunas da tabela e são denidas ao nal da especicação de cada coluna ou ao nal do
+comando.
+
+Entre as restrições encontram-se:
+
+- Chaves primárias;
+- Chaves únicas;
+- Chaves estrangeiras;
+- Identicadores de campos obrigatórios;
+- Condições para valores permitidos para determinado campo.
+
+
+Constraint  |  Descrição
+            |
+Not Null    |   Especica que esta coluna não pode conter valores nulos.
+            |
+Unique      |   Especica uma coluna ou combinação de colunas que terão seus valores únicos na tabela.
+            |
+Primary Key |   Identica a unicidade de cada linha natabela.
+            |
+Foreign Key |   Estabelece um relacionamento entre a chave estrangeira e a chave primária da tabela referenciada.
+References  |
+            |
+Check       |   Especica uma condição que deve ser verdadeira, obedecendo a uma regra do negócio.
+
+O processo de criação de tabela está no PDF do módulo.
+
+
+
+
+
+
+
+
+
+
+
+

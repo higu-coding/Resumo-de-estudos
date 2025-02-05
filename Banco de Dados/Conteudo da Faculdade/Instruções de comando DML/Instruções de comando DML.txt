@@ -1,0 +1,110 @@
+---------------------------> Introdução
+
+Com o conhecimento adquirido nos comandos DML (Data Manipulation Language), aprenderemos, agora, como inserir, alterar e deletar informações.
+
+Além de trabalharmos com os comandos acima, também veremos como podemos exibir as informações armazenadas.
+
+Então está na hora de aprendermos os comandos DDL (Data Definition Language).
+
+--> Inserir linhas em tabelas:
+
+INSERT;
+
+UPDATE;
+
+DELETE;
+
+RENAME;
+
+CREATE TABLE ... AS SELECT.
+
+--> Recuperar Dados de uma Tabela:
+
+SELECT;
+
+Distinct;
+
+Expressões Aritméticas;
+
+Cláusula Where;
+
+Alias.
+
+Para incluir dados em uma tabela, pode-se, ou não, incluir valores em todas as suas colunas (caso não sejam obrigatórias).
+
+A relação de colunas da tabela poderá ser omitida quando forem inclusos valores para todas as colunas dessa tabela.
+
+-> Update
+
+Modificar a(s) linha(s) existentes com o comando UPDATE.
+
+-> Delete
+
+Remover a(s) linha(s) existente(s) com o comando DELETE.
+
+-------> Importante!
+
+• Verifique os nomes das colunas com o comando DESCRIBE;
+
+• Confirme a operação de atualização pela visualização das linhas a serem atualizadas com o comando SELECT;
+
+• Nunca omita a cláusula WHERE. No caso da omissão, todos os registros da tabela serão eliminados.
+
+-> Rename
+
+Este comando é utilizado nos casos de alteração de nome das tabelas.
+
+-> Create Table as Select
+
+Antes de começarmos este exemplo, em seu Live Oracle popule o mesmo.
+
+Selecionando o menu Code Library você tem opções de scripts prontos para serem baixados e utilizados em seu Live Oracle.
+
+Este comando cria uma tabela (estrutura e dados) com base em um comando SELECT.
+
+-> Select
+
+O comando SELECT permite a seleção e a manipulação para visualização das informações armazenadas no banco de dados.
+
+O comando SELECT permite selecionar:
+
+(Para selecionar essas tabelas, é preciso logar-se com o usuário HR no Oracle)
+
+--> Cláusula WHERE
+
+A Cláusula WHERE indica condição para um SELECT, o qual pode ter os seguintes operadores:
+
+--Tabela 1
+
+Operador  |  Descrição
+
+    =     |    Igual
+
+   < >    |    Diferente
+
+    >     |    Maior
+
+    <     |    Menor
+
+   >=     |    Maior ou igual
+
+   <=     |    Menor ou igual
+
+Alfanuméricos e Datas na cláusula WHERE devem estar entre aspas simples.
+
+
+Operadores SQL
+
+Existem quatro operadores SQL os quais opera, com todos tipos de dados:
+
+-- Tabela 2
+
+Operador          |          Significado
+
+Between... and... |   Entre dois valores (inclusive).
+
+In (lista)        |   Comparar uma lista de valores.
+
+Like              |   Compara um parâmetro alfanumérico.
+
+Is Null           |   É um valor nulo.

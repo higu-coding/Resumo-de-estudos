@@ -1,0 +1,45 @@
+Introdução
+
+Com o conhecimento adquirido nos comandos DDL e DML, aprendemos a criar e manipular
+dados e com esse conhecimento adquirido podemos nos aprofundar um pouco mais nos
+conceitos de retornos de dados. Veremos nessa unidade que trabalhar com subquery é muito
+importante porque iremos combinar vários selects para obter um único resultado, esse
+resultado ainda pode vir acompanhado de uma função de decisão para formatar o resultado ou
+até mesmo contornar uma possível situação de falha.
+
+Então está na hora de aprendermos a utilizar as subquerys e usufruir das funções de decisões.
+
+Conceito Subquery é um comando select dentro de um outro comando select que retorna uma ou mais
+linhas, a fim de satisfazer uma cláusula WHERE.
+
+A subquery (inner query), geralmente, é executada antes da consulta principal.
+O resultado da subquery é, então, avaliado pelo da query principal (outer query).
+Uma subpesquisa (subquery) é uma declaração SELECT que é aninhada com outra declaração
+SELECT, a qual retorna resultados intermediários.
+
+A subquery é executada primeiro.
+
+O resultado da subquery é utilizado na query principal.
+
+Estrutura da subquery:
+
+  Select select_list
+  from table
+  Where expr operator
+  (Select select_list from table);
+
+Exemplo:
+
+Query principal:
+
+Quais funcionários possuem um salário maior que o de Abel?
+
+Subquery:
+
+Qual o salário de Abel?
+
+  SELECT last_name, salary
+  FROM HR.”EMPLOYEES”
+  Where salary > (SELECT salary
+  FROM HR.”EMPLOYEES”
+  WHERE last_name = ‘Abel’)

@@ -1,0 +1,14 @@
+------------> Introdução
+
+A instrução SELECT possui duas cláusulas poderosas, pouco compreendidas e usadas:
+GROUP BY e HAVING.
+
+A cláusula GROUP BY organiza dados em grupos, produzindo sumários. A cláusula
+HAVING estabelece condições para listar esses grupos. Dizemos que a cláusula HAVING
+está para a cláusula GROUP BY assim como a cláusula WHERE está para o comando SELECT.
+
+------------> Conceito
+
+A funcionalidade das funções de grupo é a de resumir informações, permitindo que
+sejam obtidas através de grupos de linhas com o uso de grupos ou agrupamento de
+funções.

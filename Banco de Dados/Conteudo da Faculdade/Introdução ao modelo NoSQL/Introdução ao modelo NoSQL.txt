@@ -1,0 +1,134 @@
+----------> Introdução
+
+Vivemos em uma era, onde, as sociedades são impulsionadas pela incansável busca
+pelo saber. O conhecimento se tornou um requisito indispensável o avanço da
+humanidade. Hoje, há várias gigantescas metrópoles erguidas a partir das mais
+diversas tecnologias utilizadas e desenvolvidas pelo homem. A inovações advindas
+dessas tecnologias também contribuem com os benefícios para a vida das pessoas.
+
+A busca pelo saber pode ser considerada uma característica intrínseca do homem.
+Desde da era Paleolítica, a era dos famosos “homens das cavernas” é possível percebe
+que o conhecimento impulsiona a humanidade.
+
+Nos dias atuais, estamos vivendo a era da informação digital, a partir do surgimento da
+internet em 1969, milhares de informações são lançadas na “rede”.
+
+
+Atualmente, as pessoas vivem com seus smartphones na mão para acessar as mais
+diversas redes sociais. É notório que as redes sociais tiveram uma importância muito
+grande na era tecnológica, transforam a forma como as pessoas se comunicam, e
+interagem. Com seus smartphones as pessoas realizam as mais diversas tarefas
+possíveis, pagam contas, acessam redes sociais, realizam compras, se comunica e
+entre outas atividades.
+
+O armazenamento e o processamento de dados de forma adequada permiti a extração
+de informações valiosas, que podem ser utilizadas na tomada de decisão. Assim, é
+possível concluir que, com os dados, chegamos nas informações, e com as
+informações, chegamos no conhecimento e com conhecimento a sociedade alavanca
+para um futuro mais tecnológico e marcado pelo conforto e benefícios as pessoas.
+
+É possível concluir que, com os dados é possível obter informações, e com as
+informações chegamos a um conhecimento. Podemos dizer ainda que, atualmente,
+informação é sinônimo de poder. No mundo dos negócios, quem tem informações tem
+o poder. Assim, o processamento de dados é uma grande arma para as empresas que
+visam se soube sair no mercado nanceiro, e ser tornar cada vez mais, competitiva.
+Assim, com o processamento massivo de dados as empresas podem extrair dados
+signicativos para melhorar a sua tomada de decisão. Geralmente, essas informações
+são chamadas de Insights e auxiliam os tomadores de decisões, tais como, gestores,
+diretores, CEOs e entre outros, a tomarem a decisão correta em seus negócios. Por
+exemplo, qual produto é mais vendido que os outros? Qual quantidade deve ser
+produzida para não haver estoque? Qual a cor do produto que é mais vendida. A análise
+massiva de dados ajuda a responder tais perguntas.
+
+----------> Big Data
+
+Big Data é um conceito inovado que é utilizado para descrever a imensa quantidade de
+dados que são gerados dia a dia, na sociedade. Uma denição simples de Big Data pode
+ser compreendida como: um conjunto de técnicas, métodos, ferramentas e
+tecnologias para o processamento de dados massivo, onde, um computador
+convencionado não conseguiria processar. Quando falamos de Big Data, estamos
+falando sobre uma imensa quantidade de dados que são necessários métodos de
+processamento mais avançadas. Soluções de Big Data geralmente utilizam Cluster de
+computadores. Um Cluster consiste em um aglomerado de computadores, conectados
+por uma rede visando o processamento compartilhado. A Figura a seguir, ilustra um
+Cluster.
+
+As principais vantagens do Big Data são:
+
+Melhor tomada de decisões: com o Big Data é possível processar uma quantidade
+massiva de dados em tempo real, facilitando a obtenção de informações para uma
+melhor tomada de decisão;
+
+Melhor experiência do cliente: a partir da análise de dados realizada no Big Data, a
+empresa pode observar comportamentos e preferências dos clientes, com essa
+observação, é possível personalizar produtos e serviços, proporcionando uma
+experiência do cliente mais satisfatória e personalizada;
+
+Melhora no processo operacional: o Big data permite identicar ineciências nos
+processos empresariais e identica também, melhorias, melhorias, resultando
+em maior produtividade e redução de custos operacionais;
+
+Melhora continua nos produtos: as informações obtidas a partir do
+processamento de dados realizados no Big Data permitem identicar novas
+oportunidades de mercado, como também, no desenvolvimento de novos
+produtos e serviços que atendam de forma signicante as necessidades dos
+clientes.
+
+----------> Os 5 Vs do Big Data
+Toda aplicação de Big Data possui características especicas, que chamamos de 5 Vs.
+Essas características são:
+
+Variedade --> Velocidade --> Volume --> Veracidade --> Valor
+    |                                                    |
+    |____________________________________________________|
+
+
+
+----------> Vamos estudar com mais detalhes tais características.
+
+Volume: essa é a principal característica do Big Data. Habitualmente, as aplicações
+de Big Data possuem uma quantidade massiva de dados, que são coletados,
+armazenados e processados, essas quantidades de dados possuem um volume
+muito grande. É importante frisar que tais dados, podem vim de diferentes fontes
+de dados, tais como redes sociais, planilhas, entre outras (SANTOS, 2021);
+
+Velocidade: essa é outra característica marcante do Big Data. Os dados são
+gerados em grande quantia e em sua maioria das vezes, são gerados em uma
+velocidade muito grande. Essa característica também ressalta que, a velocidade do
+processamento de tais dados deve ser realizada em uma velocidade maior;
+
+Veracidade: essa característica é sobre a veracidade dos dados. Segundo (SANTOS,
+2021), “essa talvez seja um desao encontrado no Big Data, pois os dados
+coletados nem sempre vão representar uma informação na qual se possa ter total
+conabilidade;
+
+Variedade: como já mencionado anteriormente, a característica m os bancos de
+dados que trabalham dentro do conceito de big data devem possuir técnicas que
+possibilitem o tratamento dos mais diferentes tipos de dados, como números,
+tags, imagens, textos etc. Isso se refere a dados dos três tipos: estruturados, não
+estruturados e semiestruturados (SANTOS, 2021);
+
+Valor: essa característica revela que o dado deve possui um valor. Isto é, mostra a
+signicância dos dados coletados e tratados pela empresa, de forma que possam
+trazer informações relevantes, que possam proporcionar um diferencial de
+mercado ou, ainda, auxiliar os gestores na tomada de decisão.
+
+
+----------> NoSQL
+Os bancos de dados são o alicerce da maioria dos sistemas que utilizamos no nosso dia
+a dia. Com o avanço das tecnologias, a importância dos dados está cada vez maior, bem
+como a procura por formas mais ecientes de se armazenar e processar grandes
+volumes de dados. Assim, começa a história dos bancos de dados não relacionais
+(NoSQL) que é fundamental para quem deseja trabalhar com Big Data.
+
+Habitualmente, bancos de dados não relacionais são chamados de banco de dados
+NoSQL. A palavra NoSQL vem do fato que, o SQL utiliza a ideia de relacionamento de
+dados, assim o “No” de NoSQL diz “não relacional”.
+Banco de dados NoSQL são bancos de dados que armazenam os dados diferentes do
+modelo relacional. Aqui, os dados são armazenados em documentos, grafos e pares
+chave-valor.
+
+NoSQL oferece uma maneira diferente e ecaz de lidar com dados, especialmente para
+aplicações modernas que exigem exibilidade, rapidez e escalabilidade. É uma
+ferramenta poderosa para desenvolvedores e empresas que precisam gerenciar
+grandes quantidades de dados de forma eficiente.

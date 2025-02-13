@@ -1,0 +1,154 @@
+----------> Introdução
+
+Bancos de dados são poderosas ferramentas para manipular
+dados, e possuem, o objetivo de separar os dados das aplicações.
+Possuem também, o objetivo de armazenar os dados permanente.
+A criação de um banco de dados, se dá através de softwares
+especícos, chamados de “Sistemas Gerenciadores de Banco de
+Dados”, ou são chamados simplesmente de SGBD. Para
+Silberschatz (2020, p. 1) SGBDs são formados por coleção de
+dados inter-relacionados, e geralmente, possuem um conjunto
+de comandos que permitem manipular os dados de forma
+eficiente. Assim, um SGBD visa fornece uma forma de
+armazenamento e recuperação de dados eficiente.
+
+Atualmente, há vários SGBDs disponíveis no mercado. Eles se
+diferem um do outro pela forma como os dados são armazenados
+e manipuladores. Por exemplo, SGBDs relacionais manipula
+dados utilizando técnicas de relacionamentos de dados, algumas
+técnicas são chaves primárias, chave estrangeiras e entre outros.
+Já os SGBDs não relacionais, que é o foco desta Unidade,
+armazenada dados utilizando técnicas de manipulação de dados
+em grandes escalas, e que os dados não possuem uma relação
+diretamente entre si. Ainda existem outros tipos de SGBDs, tais
+como; orientados a objetos, hierárquico, redes e entre outros.
+
+Mesmo com tantas opções de SGBDs é fundamental a escolha de
+um SGBD eficiente e de acordo com o modelo de banco de dados
+que você deseja implementar. Por exemplo, para aplicações de
+Big Data, é mais comum o uso de SGBDs não relacionais, pois
+estes tipos de SGBDs trabalham muito bem com grande
+quantidade de dados.
+
+Banco de dados não relacionais são chamados de NoSQL, isso
+porque os bancos de dados relacionais, implementam a
+linguagem SQL. Dessa forma, NoSQL, é uma forma de se dizer,
+não relacional. O foco desta Unidade de ensino é explanar todos
+os conceitos por trás dos bancos NoSQL e realizar uma pratica
+com um SGBD não relacional. Quando você ouvir falar em banco
+de dados não relacional, você poderá abstrair que está se falando
+de bancos NoSQL, ou vice e versa.
+
+
+----------> NoSQL
+
+Vivemos na era da informação digital, onde, são geradores
+milhões de dados por segundo. Essas informações digitais são
+extraídas através de grandes quantidades de dados. Assim, o
+armazenamento e o processamento massivo de dados permitem
+extrair informações que muitas vezes, podem ser valiosas para
+muitas empresas. Dando início assim, a era do Big Data.
+
+Com essa nova era de informação digital, surgiram novas
+tecnologias e ferramentas que possibilitam o armazenamento e o
+processamento de tais dados. No seguimento de banco de dados,
+surgiu o NoSQL. Bancos NoSQL são banco de dados robustos e
+muito eficientes, banco de dados que são projetados para
+manipular dados em grande escala.
+
+De fato, o NoSQL é uma tecnologia que surgiu através do Big Data.
+Habitualmente, banco de dados NoSQL são implementados em
+grandes computadores, chamados de Clusters, que consistem em
+um supercomputador formado por vários computadores
+trabalhando em conjunto através de uma rede de computadores.
+Com a utilização de um Cluster a aplicação se torna mais robusta,
+por exemplo, aplicações NoSQL são totalmente tolerantes a
+falhas, pois, se um computador falhar, os demais computadores
+continuam trabalhando normalmente. A seguir, vamos expor
+mais algumas vantagens do NoSQL.
+
+Outra vantagem do NoSQL consiste no fácil poder de escalar a
+aplicação. Por exemplo, se a quantidade de dados aumentar
+inesperadamente, é possível adicionar mais um computador de
+forma rápida e simples, para que seja possível processar toda a
+quantidade de dados daquele momento. O processo inverso,
+também é possível, se a quantidade de dados diminuir, é possível
+diminuir a quantidade de máquinas no Cluster. Essa questão de
+aumentar ou diminuir as máquinas no Cluster é chamada de
+escalabilidade horizontal.
+
+Ainda sobre as vantagens do NoSQL podemos falar sobre a
+rapidez no processamento de dados. Para aplicações que
+manipulam grande quantidade de dados, NoSQL possui uma
+performance muito valiosa, permitindo manipular uma
+quantidade massiva de dados de forma rápida e eficiente.
+Para nalizar, podemos citar ainda, a exibilidade do NoSQL em
+manipular os dados. No NoSQL não há algum esquema prédenido, ou ainda, os dados não possuem formato e tamanho
+especícos. Assim, o NoSQL possui a capacidade de manipular
+dados em qualquer formato.
+
+
+----------> NoSQL x SQL
+
+Como mencionado na seção anterior, banco de dados não
+relacionais são chamados de NoSQL. Enquanto banco de dados
+relacionados são chamados de SQL, isto é, porque banco de dados
+relacionais utilizam a linguagem SQL. Dessa forma, já podemos
+observar a principal diferencia entre esses bancos, que consiste
+na forma como os dados são organizados. 
+Vamos fala rapidamente sobre banco de dados relacionais.
+
+Banco de dados relacionais se baseiam na losoa que os dados
+possuem um relacionamento entre si. Esta é a principal
+característica de banco de dados relacionais. Banco de dados
+relacionais utilizam a linguagem SQL, que consiste em uma
+linguagem criada em meados dos anos 70, para padronizar a
+manipulação de dados em banco de dados relacionais.
+
+Habitualmente, banco de dados relacionais, possuem esquemas
+de armazenamento de dados. Possuem dados em formato e
+tamanho especícos. Os dados são estruturados, isto é, dados
+que ao serem armazenados, ou recuperados, são armazenados
+em estruturas, chamadas tabelas. Uma tabela consiste em um
+conjunto de linhas e colunas. As colunas são as propriedades, ou
+informações que desejamos armazenar e cada linha representa
+uma instância desse conjunto de dados.
+
+Sobre um último comentário sobre banco de dados relacionais,
+podemos citar que banco de dados relacionais utilizam o conceito
+de chaves para realizar o relacionamento entre os dados. São
+utilizados os conceitos de chave primária e chave estrangeiras
+para realizar o relacionamento de dados.
+
+Agora, sobre o NoSQL, podemos começar a falar sobre NoSQL
+dizendo que o NoSQL é tudo ao contrário do que foi exposto
+acima. Entretanto, vamos deixar claro as características do
+NoSQL, para xar bem a diferencia entre NoSQL e SQL.
+
+Vamos começar falando que o NoSQL é um tipo de banco de dados
+que utiliza a losoa de dados não relacionais. Isto é, para o
+NoSQL os dados não possuem uma relação indiretamente ou
+diretamente. O NoSQL trabalha com dados não estruturados.
+Dados que não possuem um formato especico ou trabalho
+especico. Os dados são armazenados em estruturas, geralmente
+chamadas de coleções.
+
+Atualmente, o banco de dados Mongodb é uma boa opção para
+trabalhar com banco de dados não estruturados. MongoDB é um
+sistema de gerenciamento de banco de dados NoSQL, criado em
+2007 pela empresa MongoDB Inc. Ele difere de bancos de dados
+relacionais tradicionais, pois não usa tabelas, linhas e colunas,
+mas sim documentos e coleções.
+
+Um documento no MongoDB é uma estrutura de dados
+semelhante a um JSON (JavaScript Object Notation), que pode
+conter campos e valores. Esses documentos são armazenados em
+coleções, que podem ser comparadas a tabelas em um banco de
+dados relacional.
+
+----------> MongoDB
+O MongoDB é uma opção poderosa e exível para empresas e
+desenvolvedores que precisam lidar com grandes quantidades de
+dados e querem aproveitar as vantagens do modelo NoSQL. 
+Com sua escalabilidade horizontal e documentação fácil de usar, ele é
+uma escolha popular para muitos projetos de software modernos.
